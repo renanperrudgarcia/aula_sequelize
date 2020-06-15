@@ -2,6 +2,6 @@
 
 # npm install instala o projeto 
 
-#configuração do banco \confi\config
+# configuração do banco \confi\config
 
-#rodar projeto npm start 
+# rodar projeto npm start 
