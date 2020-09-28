@@ -1,5 +1,5 @@
 -- para criar o imagem rodar o comando dentro da pasta raiz 
-# docker build -t testes .
+-- docker build -t testes .
 # depois abaixar imagem do MYSQL com o comando 
 # docker pull mysql
 # apos abaixar as imagem criar os containers com os comandos 
