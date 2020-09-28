@@ -1,7 +1,2 @@
-# aula_sequelize
-
-# npm install instala o projeto 
-
-# configuração do banco \confi\config
-
-# rodar projeto npm start 
+para criar o imagem rodar o comando dentro da pasta raiz 
+docker build -t teste .
